@@ -1,0 +1,6 @@
+C:\Users\Дарья\source\repos\MebelCOP\BindingModel\bin\Debug\BindingModel.dll
+C:\Users\Дарья\source\repos\MebelCOP\BindingModel\bin\Debug\BindingModel.pdb
+C:\Users\Дарья\source\repos\MebelCOP\BindingModel\obj\Debug\BindingModel.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\source\repos\MebelCOP\BindingModel\obj\Debug\BindingModel.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\MebelCOP\BindingModel\obj\Debug\BindingModel.dll
+C:\Users\Дарья\source\repos\MebelCOP\BindingModel\obj\Debug\BindingModel.pdb

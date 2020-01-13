@@ -1,0 +1,11 @@
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\bin\Debug\MebelCOP.dll.config
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\bin\Debug\MebelCOP.dll
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\bin\Debug\MebelCOP.pdb
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\bin\Debug\EntityFramework.dll
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\bin\Debug\EntityFramework.xml
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\obj\Debug\MebelMod.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\obj\Debug\MebelCOP.dll
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\obj\Debug\MebelCOP.pdb
+C:\Users\Дарья\source\repos\MebelCOP\MebelCOP\obj\Debug\MebelMod.csprojResolveAssemblyReference.cache

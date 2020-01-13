@@ -1,0 +1,6 @@
+C:\Users\Дарья\source\repos\MebelCOP\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Дарья\source\repos\MebelCOP\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Дарья\source\repos\MebelCOP\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\source\repos\MebelCOP\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\MebelCOP\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Дарья\source\repos\MebelCOP\ViewModel\obj\Debug\ViewModel.pdb

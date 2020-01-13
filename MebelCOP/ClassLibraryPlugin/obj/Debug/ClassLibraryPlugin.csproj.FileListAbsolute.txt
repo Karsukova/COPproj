@@ -1,0 +1,11 @@
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\bin\Debug\ClassLibraryPlugin.dll
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\bin\Debug\ClassLibraryPlugin.pdb
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\obj\Debug\ClassLibraryPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\obj\Debug\ClassLibraryPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\obj\Debug\ClassLibraryPlugin.dll
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\obj\Debug\ClassLibraryPlugin.pdb
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\bin\Debug\MebelDAL.dll
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\bin\Debug\AbstractMebel.dll
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\bin\Debug\MebelDAL.pdb
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\bin\Debug\AbstractMebel.pdb
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryPlugin\bin\Debug\AbstractMebel.dll.config

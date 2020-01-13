@@ -1,0 +1,9 @@
+C:\Users\Дарья\source\repos\MebelCOP\MebelDAL\bin\Debug\MebelDAL.dll
+C:\Users\Дарья\source\repos\MebelCOP\MebelDAL\bin\Debug\MebelDAL.pdb
+C:\Users\Дарья\source\repos\MebelCOP\MebelDAL\obj\Debug\MebelDAL.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\source\repos\MebelCOP\MebelDAL\obj\Debug\MebelDAL.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\MebelCOP\MebelDAL\obj\Debug\MebelDAL.dll
+C:\Users\Дарья\source\repos\MebelCOP\MebelDAL\obj\Debug\MebelDAL.pdb
+C:\Users\Дарья\source\repos\MebelCOP\MebelDAL\bin\Debug\AbstractMebel.dll
+C:\Users\Дарья\source\repos\MebelCOP\MebelDAL\bin\Debug\AbstractMebel.pdb
+C:\Users\Дарья\source\repos\MebelCOP\MebelDAL\bin\Debug\AbstractMebel.dll.config

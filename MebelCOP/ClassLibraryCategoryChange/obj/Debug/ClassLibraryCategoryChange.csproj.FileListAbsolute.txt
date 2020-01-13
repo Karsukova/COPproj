@@ -1,0 +1,15 @@
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\bin\Debug\ClassLibraryCategoryChange.dll
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\bin\Debug\ClassLibraryCategoryChange.pdb
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\bin\Debug\ClassLibraryPlugin.dll
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\bin\Debug\MebelDAL.dll
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\bin\Debug\AbstractMebel.dll
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\bin\Debug\ClassLibraryPlugin.pdb
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\bin\Debug\MebelDAL.pdb
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\bin\Debug\AbstractMebel.pdb
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\bin\Debug\AbstractMebel.dll.config
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\obj\Debug\ClassLibraryCategoryChange.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\obj\Debug\ClassLibraryCategoryChange.Form1.resources
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\obj\Debug\ClassLibraryCategoryChange.csproj.GenerateResource.Cache
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\obj\Debug\ClassLibraryCategoryChange.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\obj\Debug\ClassLibraryCategoryChange.dll
+C:\Users\Дарья\source\repos\MebelCOP\ClassLibraryCategoryChange\obj\Debug\ClassLibraryCategoryChange.pdb

@@ -1,0 +1,33 @@
+C:\Users\Kurai\source\repos\KOP\Konponens\bin\Debug\Konponens.dll
+C:\Users\Kurai\source\repos\KOP\Konponens\bin\Debug\Konponens.pdb
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Komponents.csproj.GenerateResource.cache
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Komponents.csproj.CoreCompileInputs.cache
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Konponens.dll
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Konponens.pdb
+C:\Users\Kurai\source\repos\KOP\Konponens\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Komponents.csproj.CopyComplete
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Komponents.FIOManager.resources
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Komponents.ListView.resources
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Konponens.DateView.resources
+C:\Users\Kurai\source\repos\KOP\Konponens\bin\Debug\itextsharp.dll
+C:\Users\Kurai\source\repos\KOP\Konponens\bin\Debug\itextsharp.xml
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Konponens.Properties.Resources.resources
+C:\Users\Kurai\source\repos\KOP\Konponens\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kurai\source\repos\KOP\Konponens\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kurai\source\repos\KOP\Konponens\obj\Debug\Komponents.csprojAssemblyReference.cache
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\bin\Debug\Konponens.dll
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\bin\Debug\Konponens.pdb
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\obj\Debug\Komponents.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\obj\Debug\Konponens.DateView.resources
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\obj\Debug\Komponents.FIOManager.resources
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\obj\Debug\Komponents.ListView.resources
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\obj\Debug\Konponens.Properties.Resources.resources
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\obj\Debug\Komponents.csproj.GenerateResource.Cache
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\obj\Debug\Komponents.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\obj\Debug\Konponens.dll
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\obj\Debug\Konponens.pdb
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\bin\Debug\MebelDAL.dll
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\bin\Debug\MebelDAL.pdb
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\bin\Debug\AbstractMebel.dll
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\bin\Debug\AbstractMebel.pdb
+C:\Users\Дарья\source\repos\MebelCOP\Konponens (1)\Konponens\bin\Debug\AbstractMebel.dll.config

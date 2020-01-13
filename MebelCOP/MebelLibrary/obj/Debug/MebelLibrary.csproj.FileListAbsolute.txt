@@ -1,0 +1,6 @@
+C:\Users\Дарья\source\repos\MebelCOP\MebelLibrary\obj\Debug\MebelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\MebelCOP\MebelLibrary\bin\Debug\MebelLibrary.dll
+C:\Users\Дарья\source\repos\MebelCOP\MebelLibrary\bin\Debug\MebelLibrary.pdb
+C:\Users\Дарья\source\repos\MebelCOP\MebelLibrary\obj\Debug\MebelLibrary.dll
+C:\Users\Дарья\source\repos\MebelCOP\MebelLibrary\obj\Debug\MebelLibrary.pdb
+C:\Users\Дарья\source\repos\MebelCOP\MebelLibrary\obj\Debug\MebelLibrary.csprojResolveAssemblyReference.cache
